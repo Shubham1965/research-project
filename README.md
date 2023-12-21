@@ -1,7 +1,7 @@
 # Research Project: 
 ## On the Conditioning of the Regressor matrix for Identification of Inertial Parameters of an Industrial Manipulator
 
-### This repository is is only for referring to my work for the Coursework named "Research Project" held at RWTH Aachen, offered by my study program "M.Sc. in Robotic Systems Engineering". 
+### This repository is only for referring to my work for the Coursework named "Research Project" held at RWTH Aachen, offered by my study program "M.Sc. in Robotic Systems Engineering". 
 
 ### **Introduction:**
 Industrial robots (especially 6-axis) are used for machining tasks in various applications nowadays. In contrast to conventional machine tools, they are less rigid, negatively impacting the workpiece quality. To improve their accuracy and precision, it is necessary to model their dynamic parameters and compensate for torque calibrations. This involves characterizing the robot's dynamic behavior, including all dynamic parameters, and using that information to adjust the control algorithms and improve the robot's performance. The goal is to achieve better control over the robot's movements, reducing errors and increasing the accuracy and repeatability of the machining process. For this purpose, identifying dynamic model parameters of the industrial robot, referring to the inertial parameters of the robot links, Coulomb-viscous friction parameters, and actuator(motor) inertia, becomes paramount. Assuming we have good friction models, the inertial parameters of the robot links and the motor inertia are termed as inertial parameters of the whole robot, which is the focus of this research thesis. 
